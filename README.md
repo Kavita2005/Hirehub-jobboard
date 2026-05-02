@@ -1,6 +1,20 @@
-# HireHub — Full Stack Job Board
+# HireHub — Job Board
 
 A complete, production-ready job board application built with **React + Node.js + Express + MongoDB**.
+
+## 📌 About HireHub
+
+HireHub is a modern, full-stack job board platform designed to bridge the gap between talented job seekers and forward-thinking employers. Whether you're a professional looking for your next career opportunity or a company searching for top talent, HireHub provides a seamless, intuitive experience from discovery to application.
+
+Built with scalability and performance in mind, HireHub offers a clean and responsive interface powered by a robust REST API backend. Employers can effortlessly post and manage job listings, while job seekers can search, filter, and save opportunities tailored to their skills and preferences — all within a secure, role-based authentication system.
+
+HireHub is not just a job board — it's a complete hiring ecosystem built for the modern workforce.
+
+## 🌐 Live Demo
+
+👉 **[https://hirehub-jobboard-sq3o.vercel.app/](https://hirehub-jobboard-sq3o.vercel.app/)**
+
+---
 
 ## 🚀 Features
 
