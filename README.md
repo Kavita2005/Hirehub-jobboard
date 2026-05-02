@@ -113,23 +113,6 @@ npm run dev   # runs on http://localhost:5173
 
 ---
 
-## 🔌 API Endpoints
-
-| Method | Endpoint | Auth | Description |
-|--------|----------|------|-------------|
-| POST | `/api/auth/signup` | No | Register new user |
-| POST | `/api/auth/login` | No | Login, get JWT |
-| GET | `/api/auth/me` | Yes | Get current user |
-| GET | `/api/jobs` | No | List jobs (filters, pagination) |
-| GET | `/api/jobs/:id` | No | Single job detail |
-| POST | `/api/jobs` | Employer | Create job listing |
-| PUT | `/api/jobs/:id` | Owner | Update job |
-| DELETE | `/api/jobs/:id` | Owner | Soft delete job |
-| GET | `/api/jobs/user/my-jobs` | Employer | My posted jobs |
-| POST | `/api/jobs/:id/save` | Yes | Toggle save job |
-
----
-
 ## 🛠 Tech Stack
 
 | Layer | Tech |
